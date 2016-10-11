@@ -1,0 +1,1 @@
+$wnd.com_zurc_digdocs_MyAppWidgetset.runAsyncCallback2('H_b(1724,1,Agh);_.pgb=function A7d(){this.qgb(this.b)};_.qgb=function B7d(a){this.rgb(a)};_.rgb=function C7d(a){};_.Hf=function E7d(){this.pgb();M0g.nGd().C7(this.a.Oc())};B_g(Fs)(2);\n//# sourceURL=com.zurc.digdocs.MyAppWidgetset-2.js\n')
